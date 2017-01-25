@@ -1,0 +1,2 @@
+# EmoticonKeyboard-Swift
+仿新浪微博的表情键盘注释很详细,拉入Emoticon文件夹即可使用，使用方法在ViewController文件中
